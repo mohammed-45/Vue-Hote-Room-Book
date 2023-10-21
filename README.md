@@ -1,7 +1,6 @@
-![image](https://github.com/mohammed-45/Vue-Hotel-Room-Book/assets/113661322/60304aeb-2900-45b3-ab82-a28791e2052f)# vue-hotel-room-booking
+# vue-hotel-room-booking
 ### Live Demo: https://remarkable-meringue-00909e.netlify.app/
-![Uploading Screenshot 2023-10-21 092639.png…]()
-
+![image](https://github.com/mohammed-45/Vue-Hotel-Room-Book/assets/113661322/60304aeb-2900-45b3-ab82-a28791e2052f)
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
